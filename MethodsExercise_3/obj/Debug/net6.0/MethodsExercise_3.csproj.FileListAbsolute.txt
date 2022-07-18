@@ -1,0 +1,15 @@
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\bin\Debug\net6.0\MethodsExercise_3.exe
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\bin\Debug\net6.0\MethodsExercise_3.deps.json
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\bin\Debug\net6.0\MethodsExercise_3.runtimeconfig.json
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\bin\Debug\net6.0\MethodsExercise_3.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\bin\Debug\net6.0\MethodsExercise_3.pdb
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.csproj.AssemblyReference.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.AssemblyInfoInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.AssemblyInfo.cs
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.csproj.CoreCompileInputs.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\refint\MethodsExercise_3.dll
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.pdb
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\MethodsExercise_3.genruntimeconfig.cache
+C:\Users\Skinnysolids\Desktop\repos\MethodsExercise_3\MethodsExercise_3\obj\Debug\net6.0\ref\MethodsExercise_3.dll
